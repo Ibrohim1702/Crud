@@ -1,6 +1,6 @@
 from django.urls import path
 from api.v1.product import *
-
+# from api.methodizm.views import MainView
 
 from api.v1.auth import *
 
